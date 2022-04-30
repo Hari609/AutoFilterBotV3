@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : @MoviesXserie
+➥ Creator : MoviesXserie
 
 
 ➥ Language : Python3
